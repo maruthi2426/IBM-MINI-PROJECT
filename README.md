@@ -1,2 +1,2 @@
-# IBM-MINI-PROJECT
+# IBM-PROJECT (Supermarket Bill Genration)
 IBM PROJECT (Supermarket Bill Generation)
